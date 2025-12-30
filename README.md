@@ -17,10 +17,16 @@ Este projeto é um **web scraper** que coleta as últimas notícias de telecomun
 4. Execute o notebook ou script:
    python raspador_telecom.py
 
-   O resultado será um arquivo noticias.csv com o título, link da notícia e nome do veículo que publicou.
+O resultado será um arquivo noticias.csv com o título, link da notícia e nome do veículo que publicou.
    
+### Exemplo de saída
+<img width="2370" height="734" alt="image" src="https://github.com/user-attachments/assets/3ef3ce15-bf6b-4055-9655-abba81400cea" />
+
+
 ## Bibliotecas utilizadas
 - pandas
 - requests
 - BeautifulSoup4 (ou bs4)
+
+  
 
