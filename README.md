@@ -25,7 +25,7 @@ O resultado será um arquivo noticias.csv com o título, link da notícia e nome
 ## Bibliotecas utilizadas
 - pandas
 - requests
-- BeautifulSoup4 (ou bs4)
+- bs4
 
   
 
