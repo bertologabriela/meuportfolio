@@ -1,4 +1,4 @@
-# Raspador de Notícias de Telecomunicações
+# Raspador de Notícias de Telecomunicações (iniciante)
 
 Este projeto é um **web scraper** que coleta as últimas notícias de telecomunicações de diferentes veículos, organiza os dados em um **DataFrame** e salva em um arquivo CSV.
 
